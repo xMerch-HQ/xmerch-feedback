@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reporting. Found a security problem? Don't post it here: use [Report a vulnerability](https://github.com/mworks-proj/xmerch-testing/security/advisories/new).
+        Thanks for reporting. Found a security problem? Don't post it here: use [Report a vulnerability](https://github.com/xMerch-HQ/xmerch-feedback/security/advisories/new).
         Never post card details, wallet secrets or another person's information.
   - type: dropdown
     id: area

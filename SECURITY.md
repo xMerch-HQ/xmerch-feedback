@@ -1,6 +1,6 @@
 # Security at xMerch
 
-**Report a vulnerability:** use [Report a vulnerability](https://github.com/mworks-proj/xmerch-testing/security/advisories/new). Only the xMerch team sees it. Please don't open a public issue for a security problem.
+**Report a vulnerability:** use [Report a vulnerability](https://github.com/xMerch-HQ/xmerch-feedback/security/advisories/new). Only the xMerch team sees it. Please don't open a public issue for a security problem.
 
 **In scope:** xmerch.app and www.xmerch.app, store subdomains (*.xmerch.app), vendors' custom domains served by xMerch, admin.xmerch.app, dex.xmerch.app, and xMerch's Xahau Hooks.
 
