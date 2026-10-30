@@ -11,6 +11,8 @@ We appreciate your participation in testing **XMerch**! Here’s how you can con
 
 ✅ **Report Bugs** – If you encounter issues while using XMerch, please open an issue with steps to reproduce it.
 
+🔒 **Security issues** – Please don't open a public issue. Report them privately with [Report a vulnerability](https://github.com/mworks-proj/xmerch-testing/security/advisories/new) (see [SECURITY.md](SECURITY.md)).
+
 ✅ **Suggest Features** – Have an idea that could improve the platform? Let us know!
 
 ✅ **Share Your Experience** – Tell us how your experience was and where we can improve 
