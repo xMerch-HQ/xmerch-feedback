@@ -1,0 +1,28 @@
+name: Feature request
+description: An idea that would make xMerch better for you.
+labels: [enhancement]
+body:
+  - type: dropdown
+    id: who
+    attributes:
+      label: You are
+      options:
+        - A seller or store owner
+        - A buyer
+        - A team, club or school
+        - A print shop or provider
+        - A developer
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The job you need done, and what gets in the way today.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
